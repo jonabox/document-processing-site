@@ -1,0 +1,3 @@
+# Tax Exemption Forms and Certificates Processing
+
+This includes detecting and interpreting complex data structures such as checkboxes, tables, blank lines, and signatures. The goal in extracting essential information from these documents is to evaluate its validity within the scope of the company and industry it applies to. The existing version of the prototype requires manual creation of templates for each form type. We are currently developing a program to automatically create templates by detecting essential keywords in table and blank box/line data types.
