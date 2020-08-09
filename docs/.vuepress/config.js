@@ -10,7 +10,7 @@ module.exports = {
    */
   description: description,
 
-  base: 'https://web.mit.edu/csail-doc-proc/',
+  base: './',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
