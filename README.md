@@ -1,6 +1,6 @@
-# document-processing-site
+# AI and OCR document-processing-site
 
-> Site for the Document Processing Group led under Dr. Amar Gupta
+> led under Dr. Amar Gupta
 
 ## Development
 

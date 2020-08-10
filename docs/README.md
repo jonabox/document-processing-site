@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: null
-tagline: Site for the AI and OCR Document Processing Group led by Dr. Amar Gupta
+tagline: Site for the AI and OCR Document Processing Group at CSAIL led by Dr. Amar Gupta
 actionText: Our Projects →
 actionLink: /projects/
 ---

@@ -38,6 +38,10 @@ module.exports = {
         link: '/projects/',
       },
       {
+        text: 'Initiatives',
+        link: '/initiatives/',
+      },
+      {
         text: 'Research',
         link: '/research/',
       },
