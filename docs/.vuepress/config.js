@@ -10,7 +10,7 @@ module.exports = {
    */
   description: description,
   
-  base:"csail-doc-proc/document-processing-site/docs/.vuepress/dist",
+  base:"csail-doc-proc/www",
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
