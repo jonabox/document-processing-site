@@ -10,7 +10,7 @@ module.exports = {
    */
   description: description,
   
-  base:"csail-doc-proc/www",
+  base:"csail-doc-proc",
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
