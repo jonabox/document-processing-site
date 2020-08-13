@@ -10,7 +10,7 @@ module.exports = {
    */
   description: description,
   
-  base:"csail-doc-proc",
+  base:"pumkin",
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
