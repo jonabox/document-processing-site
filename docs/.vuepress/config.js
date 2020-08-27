@@ -26,7 +26,9 @@ module.exports = {
    *
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
+  theme: 'default-prefers-color-scheme',
   themeConfig: {
+    defaultTheme: 'dark',
     repo: '',
     editLinks: false,
     docsDir: '',
