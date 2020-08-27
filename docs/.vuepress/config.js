@@ -10,7 +10,6 @@ module.exports = {
    */
   description: description,
   
-  base:"pumpkin",
   /**
    * Extra tags to be injected to the page HTML `<head>`
    *
