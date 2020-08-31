@@ -4,4 +4,4 @@ This includes detecting and interpreting complex data structures such as checkbo
 
 ## 8/19/2020 update
 
-We are currently developing a program to automatically create templates by detecting essential keywords in table and blank box/line data types. The open-source github repository for this project can now be found [here](https://github.com/jonabox/ryan-document-processing).
+We are currently developing a program to automatically create templates by detecting essential keywords in table and blank box/line data types. Access to the github repository for this project can be given by request.
