@@ -1,6 +1,6 @@
 # Research
 
-Students working with our research group have been engaged in a wide variety ofcutting edge activities. Below are graduate and undergraduate dissertationsfor some of our alumni. These disserations are the propery of MIT and therespective authors, and cannot be used without permission.
+Students working with our research group have been engaged in a wide variety of cutting edge activities. Below are graduate and undergraduate dissertationsfor some of our alumni. These disserations are the propery of MIT and therespective authors, and cannot be used without permission.
 
 <table>
     <tbody>
