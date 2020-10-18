@@ -64,6 +64,7 @@ module.exports = {
           children: [
             '',
             'form-processing',
+            'document-nlp',
             'robust-preprocessing',
             'key-value-pair-extraction'
           ]
