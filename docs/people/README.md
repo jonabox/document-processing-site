@@ -1,7 +1,11 @@
 # People
 
 ### Amar Gupta - Project Supervisor
-agupta@mit.edu [Resume](./resume) [CV](./CV)
+agupta@mit.edu
+
+Resume [Word](https://drive.google.com/uc?id=1C80YGlpeTT70fEly4qjCYs-7VWWGDcrH&export=download) [PDF](./resume)
+
+CV [Word](https://drive.google.com/uc?id=1zqN_oDYEv-6zt731Ox6y0RNTNpfMr85E&export=download) [PDF](./CV)
 
 ## Current Members
 
