@@ -4,6 +4,8 @@
 
 ## Development
 
+[install npm and yarn](https://github.com/nodesource/distributions/blob/master/README.md)
+
 ```bash
 yarn dev
 yarn build

@@ -1,5 +1,7 @@
 # People
 
+### Amar Gupta - Project Supervisor
+
 ## Current Members
 
 ### Aramis Subee - Project Coordinator
